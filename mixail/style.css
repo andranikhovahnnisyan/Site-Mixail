@@ -31,8 +31,8 @@ background-color: red;
 }
 
 .logo {
-width: 100%;
-height: 140px;    
+width: 90%;
+height: 100px;    
 }
 
 .navbar {
@@ -40,6 +40,30 @@ width: 70%;
 height: 160px;   
 background-color: yellow;
 display: inline-block; 
+}
+
+.big_nav{
+width: 50%;
+height: 160px;
+background-color: yellow;
+margin: 0 auto;
+padding-top: 55px;    
+}
+
+.small_nav {
+width: 60%;
+height: 50px;
+background-color: yellow;
+margin: 0 auto; 
+padding-left: 20px;   
+}
+
+.nav_text {
+margin-right: 20px;
+}
+
+.nav_textes {
+color: black;
 }
 
 .gift_button_div {
@@ -76,7 +100,6 @@ padding-top: 107px;
 .news1 {
 width: 60%;
 height: 500px;
-background-color: yellow;
 margin: 0 auto;    
 }
 
